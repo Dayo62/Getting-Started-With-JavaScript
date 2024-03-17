@@ -1,4 +1,3 @@
 let firstName = "David";
-let lastName = "Tucker";
-
-console.log(`Hello  ${firstName} ${lastName}`);
+let upperCaseName = firstName.toUpperCase();// DAVID
+console.log(`Hello  ${firstName} `);
