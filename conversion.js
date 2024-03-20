@@ -7,8 +7,8 @@ let boolValue = "Hi";
 console.log(typeof(boolValue));
 
 //Joining a non-string value with a string
-let age = 41;
-let firstName= "David";
+let age = 21;
+let firstName= "Dayo";
 let description = `${firstName} is ${age} years old`;
 console.log(description);
 
@@ -20,7 +20,7 @@ let ageNewNum = new Number(ageString); // No quiero este
 console.log(typeof(ageNewNum));
 
 // Que pasa con el(about)  NaN 
-let ageString2 = "forty-one";
+let ageString2 = "twenty-one";
 let ageNum2 = Number(ageString2);
 console.log(`Age String 2: ${ageNum2}`);
 let isInvalid = isNaN(ageNum2);

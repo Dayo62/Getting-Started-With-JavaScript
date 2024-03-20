@@ -1,7 +1,7 @@
 //Creating single-line strings
-let firstName = "David";
-let lastName = "Tucker";
-let title = `VP Engineering`;
+let firstName = "Dayo";
+let lastName = "Ekundayo";
+let title = `Student`;
 title = `CTO`;
 
 //string concatenation with the plus operator
@@ -16,8 +16,8 @@ let bio = "Line 1\nLine 2\nLine 3";
 console.log(bio);
 
 //creating multi-line stings with backticks
-bio= `About David Tucker:
-David Tucker is the current CTO of Globomantics.`;
+bio= `About Dayo ekundayo:
+Dayo Ekundayo is the current CTO of compyter Science.`;
 
 //Escaping characters
 let quote = 'David said, " JavaScript is great"';
@@ -43,6 +43,6 @@ let idx3 = fullName.indexOf("xyz");
 console.log(`Index 3: ${idx3}`);
 
 //Does a string contain a substring
-let doesContain = fullName.includes("Dav");
+let doesContain = fullName.includes("Day");
 console.log(doesContain);
 
