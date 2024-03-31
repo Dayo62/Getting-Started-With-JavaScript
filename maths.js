@@ -34,11 +34,12 @@ console.log(`val11: ${val11}`);
 let val12= 2 ** -1;
 console.log(`val12: ${val12}`);
 
-//Increment and decrement
+//Increment
 let val13 = 1;
 ++val13;
 console.log(`val13: ${val13}`);
 
+//decrement
 let val14 = 1;
-val14;
+--val14;
 console.log(`val14 ${val14}`);
