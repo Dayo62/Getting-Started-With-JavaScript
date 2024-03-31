@@ -40,5 +40,5 @@ let val13 = 1;
 console.log(`val13: ${val13}`);
 
 let val14 = 1;
---val14;
+val14;
 console.log(`val14 ${val14}`);
